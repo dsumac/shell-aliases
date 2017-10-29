@@ -1,3 +1,6 @@
+# shell
+alias al=alias
+
 # editors
 alias vi=vim
 
