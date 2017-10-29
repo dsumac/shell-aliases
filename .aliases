@@ -1,2 +1,5 @@
+# editors
+alias vi=vim
+
 # Tools
 alias ddspeed='dd if=/dev/zero of=/tmp/output.img bs=8k count=256k conv=fdatasync; rm -rf /tmp/output.img'
