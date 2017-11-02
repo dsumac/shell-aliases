@@ -10,5 +10,10 @@ Aliases for cool commands
 source $HOME/.aliases
 ```
 
-### TODO
-- use with oh_my_zsh (or other shell 'framework')
+### Use with oh_my_zsh
+
+You can make a symbolic link in ```~/.oh-my-zsh/custom/```
+
+```
+ln -s $HOME/path_to_aliases_file/.aliases ~/.oh-my-zsh/custom/aliases.zsh
+```
