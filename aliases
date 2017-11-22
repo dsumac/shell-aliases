@@ -9,6 +9,7 @@ alias diff=colordiff
 alias dif=diff
 alias difq='diff -q'
 alias dify='diff -y'
+alias difr='diff -r'
 
 
 # Tools
