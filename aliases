@@ -4,5 +4,12 @@ alias al=alias
 # editors
 alias vi=vim
 
+# diff tools
+alias diff=colordiff
+alias dif=diff
+alias difq='diff -q'
+alias dify='diff -y'
+
+
 # Tools
 alias ddspeed='dd if=/dev/zero of=/tmp/output.img bs=8k count=256k conv=fdatasync; rm -rf /tmp/output.img'
