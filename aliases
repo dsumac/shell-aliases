@@ -1,5 +1,6 @@
 # shell
 alias al=alias
+alias ual=unalias
 
 # editors
 alias vi=vim
