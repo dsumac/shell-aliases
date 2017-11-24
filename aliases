@@ -2,6 +2,11 @@
 alias al=alias
 alias ual=unalias
 
+# dirs
+alias d='dirs -lv'
+alias pu='pushd'
+alias pu='popd'
+
 # editors
 alias vi=vim
 
