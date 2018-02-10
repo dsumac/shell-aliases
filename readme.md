@@ -20,10 +20,3 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/dsumac/shell-aliases/maste
 source $HOME/.shell-aliases/aliases
 ```
 
-### Use with oh_my_zsh
-
-You can make a symbolic link in ```~/.oh-my-zsh/custom/```
-
-```
-ln -s $HOME/.shell-aliases/aliases ~/.oh-my-zsh/custom/aliases.zsh
-```
