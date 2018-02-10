@@ -17,6 +17,8 @@ alias difq='diff -q'
 alias dify='diff -y'
 alias difr='diff -r'
 
+# file space
+alias dus='du -hs * | sort -hr'
 
 # Tools
 alias ddspeed='dd if=/dev/zero of=/tmp/output.img bs=8k count=256k conv=fdatasync; rm -rf /tmp/output.img'
