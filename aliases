@@ -5,7 +5,7 @@ alias ual=unalias
 # dirs
 alias d='dirs -lv'
 alias pu='pushd'
-alias pu='popd'
+alias po='popd'
 
 # editors
 alias vi=vim
