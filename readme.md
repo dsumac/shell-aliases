@@ -17,6 +17,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/dsumac/shell-aliases/maste
 ### Add configuration to your .zshrc / .bashrc (or another shell 'rc' file)
 
 ```
-source $HOME/.shell-aliases/aliases
+source $HOME/.shell-aliases/aliases.sh
 ```
 
